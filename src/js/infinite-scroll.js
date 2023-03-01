@@ -3,6 +3,7 @@ import { refs } from './refs';
 import { UnsplashAPI } from './unsplashAPI';
 import { createGalleryCards } from './markup';
 import { spinnerPlay, spinnerStop } from './spinner';
+//
 
 const options = {
   root: null,
