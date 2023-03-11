@@ -36,7 +36,7 @@ const callback = function (entries, observer) {
     }
   });
 };
-var observer = new IntersectionObserver(callback, options);
+const observer = new IntersectionObserver(callback, options);
 
 refs.form.addEventListener('submit', onSearch);
 

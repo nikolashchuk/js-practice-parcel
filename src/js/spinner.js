@@ -1,5 +1,6 @@
 import { Spinner } from 'spin.js';
-import { refs } from './refs';
+// import { refs } from './refs';
+import { refs } from '../pagination-js/refs';
 
 var opts = {
   lines: 8, // The number of lines to draw
